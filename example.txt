@@ -1,8 +1,8 @@
-name: Cfvghbjnkmlkkihygb
+# Название книги: Приключения в мире Git
 
+## Глава 1: Введение
+Здесь будет введение в удивительный мир Git.
 
-chapter 2
-par 2
-hahahahahhahahah
+## Глава 2: Основы Git
+Основные понятия и команды Git.
 
-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
